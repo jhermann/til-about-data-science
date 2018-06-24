@@ -33,3 +33,6 @@ as well as notebooks, code and such contained in the repository itself.
 
 Code in this repository is [MIT licensed](https://github.com/jhermann/til-about-data-science/blob/master/LICENSE),
 while the wiki is [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+While on the topic of legislation:
+[Fight for your rights as a digital native, against the 20th century trolls](https://www.linuxjournal.com/content/how-eus-copyright-reform-threatens-open-source-and-how-fight-it)!
