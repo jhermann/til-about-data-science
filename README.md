@@ -1,6 +1,6 @@
 # Today I Learned about Data Science…
 
-Records of what I learned while exploring the waters of *data science* (using *Python*).
+> Records of what I learned while exploring the waters of *data science* (using *Python*).
 
 
 ## What is this about?
