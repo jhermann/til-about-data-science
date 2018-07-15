@@ -2,6 +2,12 @@
 
 > Records of what I learned while exploring the waters of *data science* (using *Python*).
 
+**Contents**
+
+ * [What is this about?](#what-is-this-about)
+ * [How can I use it?](#how-can-i-use-it)
+ * [Legal Stuff](#legal-stuff)
+
 
 ## What is this about?
 
