@@ -22,6 +22,8 @@ My challenges might not be yours, and likely I'm puzzled by different things tha
 However, if you find yourself in a place where as an IT professional you want to learn about data science,
 then chances are very high you can profit from this.
 
+See also [jupyter-by-example](https://github.com/jhermann/jupyter-by-example).
+
 
 ## How can I use it?
 
